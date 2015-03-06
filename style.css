@@ -1,0 +1,9 @@
+body {
+    background: url(image.jpg) 0 0 no-repeat fixed !important;
+    background-attachment:fixed;
+	background-size:cover;
+}
+
+.ui-page, .ui-content, .ui-btn {
+	background: transparent;
+}
